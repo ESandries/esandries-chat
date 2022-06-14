@@ -1,0 +1,26 @@
+{
+  "name": "esandries-chat",
+  "version": "0.1.0",
+  "description": "Un chat mejor que Telegram",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESandries/esandries-chat.git"
+  },
+  "keywords": [
+    "nodejs",
+    "fullstack",
+    "esandries",
+    "platzi",
+    "mongodb"
+  ],
+  "author": "Emanuel Sandries <emanuelsandries@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ESandries/esandries-chat/issues"
+  },
+  "homepage": "https://github.com/ESandries/esandries-chat#readme"
+}
